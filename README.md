@@ -2,6 +2,9 @@
 
 Welcome to the GitHub repository for **biolink**, an R package developed as a result of the 31st Challenge Cup competition at Peking University.
 
+## Author
+Yuting Wang, Bin Wang (corresponding author)
+
 ## Overview
 
 **biolink** is designed to facilitate multi-omics network analysis methods for studying environmental exposure-disease associations. Leveraging data from the NHANES database, this package enables researchers and scholars interested in exposome studies to construct predictive models for disease risk based on exposome data.
